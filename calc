@@ -1,2 +1,2 @@
 #!/bin/bash
-/home/$USER/.miniprojects/calc/calc.py
+/usr/local/bin/calc-files/calc.py
